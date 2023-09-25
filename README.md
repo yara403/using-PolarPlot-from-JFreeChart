@@ -23,3 +23,7 @@ beauty seemed thought of by the Mind through polar equations. Everything that is
 conscious of orienting their existence towards approaching this ideal of perfection than we do.
 
 The code for this project executes a set of 10 randomly chosen polar equations in a thread within a loop of 50 iterations. The results of the equations (dataset) are presented graphically (PolarPlot) in a window (ApplicationFrame). If the project's .jar file is run in a terminal or the code itself source through an IDE, the execution will be accompanied by the display of 50 sentences in the terminal/console. This is an experimental text of infraordinary memories that I wrote. Combining my essays and fiction texts with programming has been very motivating for me.
+
+![rosacea01](https://github.com/yara403/using-PolarPlot-from-JFreeChart/assets/76740760/33829f15-f535-41b1-b326-a64a468dfa5e)
+![cardiod01](https://github.com/yara403/using-PolarPlot-from-JFreeChart/assets/76740760/c7e35493-e125-4c6f-8870-dbc3aecf904e)
+
