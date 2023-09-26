@@ -1,3 +1,6 @@
+Se você gostou deste projeto, considere me apoiar | If you liked this project, please consider supporting me:
+<a href="https://www.buymeacoffee.com/yarasa" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 # using-PolarPlot-from-JFreeChart
 Com a API JFreeChart gerei gráficos de equações polares. Estas equações me impressionaram desde que as conheci. Ansiosa, resolvia os cálculos, me apressava para marcar 
 os pontos no papel e corria para desenhar o gráfico. Coordenadas polares me revelavam flores (rosacea), corações ou frutas (cardeoides) e conchas (espiral de 
